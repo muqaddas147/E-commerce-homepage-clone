@@ -1,4 +1,4 @@
-# Amazon Clone (UI)
+# E-commerce homepage clone (UI)
 
 A front-end clone of the Amazon homepage, built with HTML and CSS to practice
 real-world website layouts.
